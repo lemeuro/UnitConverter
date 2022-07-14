@@ -1,6 +1,6 @@
 //
-//  UnitConversionsApp.swift
-//  UnitConversions
+//  UnitConverterApp.swift
+//  UnitConverter
 //
 //  Created by Lem Euro on 13.07.2022.
 //

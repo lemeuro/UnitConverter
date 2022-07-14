@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  UnitConversions
+//  UnitConverter
 //
 //  Created by Lem Euro on 13.07.2022.
 //
